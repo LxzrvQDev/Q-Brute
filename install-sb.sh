@@ -30,7 +30,7 @@ sleep 2
 clear
 figlet Installing ...
 figlet instagram bf1
-#Instagram 1
+#Instagram 1.
 git clone https://github.com/umeshshinde19/instainsane.git
 cd instainsane
 chmod +x instainsane.sh
