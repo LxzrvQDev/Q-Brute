@@ -5,7 +5,7 @@ Q-Brute is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter
 apt-get update
 apt-get install git
 git clone https://github.com/LxzrvQDev/Q-Brute 
-cd SocialBox-Termux
+cd Q-Brute
 chmod +x install-sb.sh
 ./install-sb.sh
 ```
